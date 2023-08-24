@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6bTPIqFizj4" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Klatt-test-branching-scenario</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Klatt-test-branching-scenario_ORG">
+    <organization identifier="Klatt-test-branching-scenario_ORG">
+      <title>Klatt-test-branching-scenario</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__6bTPIqFizj4_RES">
+        <title>Klatt-test-branching-scenario</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6bTPIqFizj4_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6F3XkB2NIH6.png" />
+      <file href="mobile/6rUu4AtulkS.png" />
+      <file href="mobile/6eqn2jsA177.png" />
+      <file href="mobile/6Rc4f1NUshe_X.png" />
+      <file href="mobile/6W2DsO4nmcp.png" />
+      <file href="mobile/5xkcwgUSWGR.png" />
+      <file href="mobile/64QeZ8JmDix_X.png" />
+      <file href="mobile/6i940TblIS0.png" />
+      <file href="mobile/6epODsDDQ3i.png" />
+      <file href="mobile/5b3k6Ls58zk.png" />
+      <file href="mobile/5VOEKW6woPB.png" />
+      <file href="mobile/6GMSUPJ7Kmc.png" />
+      <file href="mobile/6Rc4f1NUshe.png" />
+      <file href="mobile/68LZ8enRpxL.png" />
+      <file href="mobile/6Wvyzoe7EzV.png" />
+      <file href="mobile/6HPIhT9f9Oc.png" />
+      <file href="mobile/5VyJp9XnA76.png" />
+      <file href="mobile/5jqf3iXSzoD.png" />
+      <file href="mobile/63bcJSQKcDP.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Klatt-test-branching-portrait-A4-cheat-sheet.pdf" />
+      <file href="mobile/Shape5mu8L8XKXyt.png" />
+      <file href="mobile/Shape5Z1irmM0fVG.png" />
+      <file href="mobile/Shape6qliSAmyftS.png" />
+      <file href="mobile/Shape63b4EUeqFl3.png" />
+      <file href="mobile/Shape6HIGx0vqXXF.png" />
+      <file href="mobile/Shape5mU5EZtc9Df.png" />
+      <file href="mobile/Shape6YQuQvWGQd5.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5ir9qHhYoO5.js" />
+      <file href="html5/data/js/5jwFPynWfH7.js" />
+      <file href="html5/data/js/5kXZQGlMvD5.js" />
+      <file href="html5/data/js/5nuJ3zZxW1e.js" />
+      <file href="html5/data/js/5qxXPLGg7Nw.js" />
+      <file href="html5/data/js/5vrTJDjOsae.js" />
+      <file href="html5/data/js/5w1RV1mUsPx.js" />
+      <file href="html5/data/js/5xBwu9z1Tz1.js" />
+      <file href="html5/data/js/5yoWAkI8gQE.js" />
+      <file href="html5/data/js/61y581rztcV.js" />
+      <file href="html5/data/js/63MEKsjVjaU.js" />
+      <file href="html5/data/js/66zyv1MEdTn.js" />
+      <file href="html5/data/js/67CxdAt19pg.js" />
+      <file href="html5/data/js/69fT6qZuE2x.js" />
+      <file href="html5/data/js/69GOWQ8MedS.js" />
+      <file href="html5/data/js/6a4NOg8bPBM.js" />
+      <file href="html5/data/js/6EqFAXBCq3q.js" />
+      <file href="html5/data/js/6GH9b2efJDk.js" />
+      <file href="html5/data/js/6HhNEqdil96.js" />
+      <file href="html5/data/js/6IeDnXafvsi.js" />
+      <file href="html5/data/js/6jBcpgLN6SA.js" />
+      <file href="html5/data/js/6nyda5VgdqH.js" />
+      <file href="html5/data/js/6OufHsozOs0.js" />
+      <file href="html5/data/js/6OUJQAR5DVM.js" />
+      <file href="html5/data/js/6P1vb7f9v67.js" />
+      <file href="html5/data/js/6PTR0hV6GbJ.js" />
+      <file href="html5/data/js/6qz2mMPz1SX.js" />
+      <file href="html5/data/js/6rFIZGBfM8h.js" />
+      <file href="html5/data/js/6RSRs22FYFG.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
